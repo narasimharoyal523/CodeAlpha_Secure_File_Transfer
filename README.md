@@ -47,15 +47,12 @@ Copy code
 ## 🚀 How to Run
 
 1. **Install Requirements:**
-
-```bash
-pip install cryptography
-Run the App:
-
-bash
-Copy code
-python main.py
-Use the GUI to:
+   ```bash
+   pip install cryptography
+2. Run the App:
+   ```bash
+   python main.py
+3. Use the GUI to:
 
 Register or Login
 
